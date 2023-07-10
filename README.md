@@ -6,4 +6,4 @@ This repository contains code to learn the temperature dynamics by using a neura
 
 The figure below presents the results of predicting the temperature over a horizon of 10 time steps using the trained neural network model.
 
-![Temperature Predictions](path_to_figure.jpg)
+![Temperature Predictions](figs/prediction.png)
